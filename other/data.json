@@ -1,0 +1,32 @@
+{
+    "Video": [
+        {
+            "title": "La manipulation des molécules avec des électrons",
+            "localname": "../props/video/Biph_movie2.mp4",
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum, optio itaque distinctio quas laboriosam accusamus aperiam obcaecati provident facilis! Quod maxime facilis culpa cum suscipit!"
+        },
+        {
+            "title": "Le logo CNRS revisité",
+            "localname": "../props/video/Film_CNRS.mp4",
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum, optio itaque distinctio quas laboriosam accusamus aperiam obcaecati provident facilis! Quod maxime facilis culpa cum suscipit!"
+        }
+    ],
+    "Collaborators": [
+        {
+            "title": "Manipulation translationnelle d'atomes magnétiques de cobalt sur la surface Si(100)-2x1 à 9 K",
+            "localname": "../props/article/capture_web_site_co-e0ed7.png",
+            "desciption": "Le mouvement contrôlé des impuretés magnétiques sur les surfaces des semi-conducteurs (SC) est d'une importance cruciale pour les dispositifs magnétiques à l'échelle atomique. Toujours difficiles en raison de leur forte réactivité avec les SC, les impuretés magnétiques sont généralement étudiées dans les SC en vrac, empêchant ainsi leur manipulation. Ici, nous montrons qu'un seul adatome de Co peut être stabilisé sur la surface nue Si (100) -2 × 1 dans une configuration de piédestal à basse température, 9 K, et déplacé le long des rangées de dimères de silicium reconstruites via l'utilisation d'un tunnel de balayage microscope. Les caractéristiques électroniques de l'atome de Co et de son environnement sont étudiées via la topographie et des mesures de dI/dV. Nos résultats révèlent que la liaison Si-Co implique une hybridation entre les orbitales Si-p et Co-pxpy. Cette configuration indique que les orbitales Co-d restent faiblement hybridées avec les atomes de silicium. Ces résultats sont étayés par des calculs de la théorie de la fonctionnelle de la densité où le rôle du dopant As est discuté ainsi que la reconstruction de surface. Par conséquent, nous montrons que la direction du mouvement de l'atome de Co peut être influencée par les phases de reconstruction de surface c(4 × 2) ou p(2 × 2) environnantes, ouvrant ainsi de futures applications magnétiques intéressantes. Cet article est publié chez ACS J. Phys. Chim. C 2019, 123, 43, 26415–26423",
+            "lore": [
+                2022, "damien riedel"
+            ]
+        },
+        {
+            "title": "Exploiting a single intramolecular conformational switching Ni-TPP molecule to probe charge transfer dynamics at the nanoscale on bare Si(100)-2 × 1",
+            "localname": "../props/article/nanoscale.png",
+            "desciption": "Acquiring quantitative information on charge transfer (CT) dynamics at the nanoscale remains an important scientific challenge. In particular, CT processes in single molecules at surfaces need to be investigated to be properly controlled in various devices. To address this issue, the dynamics of switching molecules can be exploited. Here, nickel-tetraphenylporphyrin adsorbed on the Si(100) surface is used to study the CT process ruling the reversible activation of two chiral molecular conformations. Via the electrons of a scanning tunneling microscope (STM), a statistical study of molecular switching reveals two specific locations of the molecule for which their efficiency is optimized. The CT mechanism is shown to propagate from two lateral aryl groups towards the porphyrin macrocycle inducing an intramolecular movement of two symmetric pyrroles. The measured switching efficiencies can thus be related to a Markus-Jordner model to estimate relevant parameters that describe the dynamics of the CT process. Numerical simulations provide a precise description of the molecular conformations and unveil the molecular energy levels that are involved in the CT process. This quantitative method opens a completely original approach to study CT at the nanoscale.",
+            "lore": [
+                2022, "damien riedel"
+            ]
+        }
+    ]
+}

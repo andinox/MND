@@ -1,0 +1,156 @@
+.main {
+    overflow: auto;
+}
+
+.main header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 3vh;
+    font-family: Raleway;
+    user-select: none;
+    text-decoration: underline;
+}
+
+.video {
+    position: relative;
+    display: flex;
+}
+
+
+#videoembed {
+    width: 35%;
+}
+
+
+.elementvideo, element {
+    position: relative;
+    margin: 3vh;
+    border: 1px solid rgba(0, 0, 0, 0.44);
+    padding: 2vh;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.elementvideo div {
+    display: flex;
+    flex-direction: column;
+    margin: 2vw;
+    justify-content: center;
+    text-align: center;
+}
+
+.elementvideo div .title, .elementvideo div p {
+    font-family: Raleway;
+}
+
+.none {
+    display: none;
+}
+
+
+.element {
+    margin: 5vh;
+    border: 1px solid rgb(0, 0, 0, 0.44);
+    display: flex;
+    flex-direction: column;
+    font-family: Raleway;
+}
+
+.element h1 {
+    margin-left: 5vh;
+    margin-right: 5vh;
+    text-align: center;
+}
+
+.element div {
+    margin: 3vh;
+}
+
+.element div p {    
+    margin: 0px;
+    text-align: justify;
+}
+
+.element div img {
+    float: left;
+    max-width: 20vw;
+    margin: 1vh;
+    margin-top: 0px;
+}
+
+[llde] {
+    user-select: none;
+    font-size: 12vw;
+    font-family: Raleway;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+h3 {
+    user-select: none;
+    font-size: 2vw;
+    font-family: Raleway;
+    position: absolute;
+    font-weight: lighter;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+}
+
+.tags {
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: center;
+    
+}
+
+.tags div {
+    border: 1px solid #000;
+    margin: auto;    
+    margin-left: 1vh;
+    padding: 0.1vw;
+}
+
+
+.main::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  .main::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  .main::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.123); 
+  }
+
+  .main::-webkit-scrollbar-thumb:hover {
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    z-index: -1;
+  }
+
+
+
+
+@font-face {
+    font-family: "Raleway";
+    src: url("../Raleway-VariableFont_wght.ttf") format("truetype"), url("../Raleway-Italic-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "optimus";
+    src: url("../OptimusPrinceps.ttf") format("truetype"), url("../OptimusPrincepsSemiBold.ttf") format("truetype");
+}
