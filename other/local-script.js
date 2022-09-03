@@ -2,6 +2,13 @@
 let data;
 
 
+
+String.prototype.allspace = function() {
+    let nb = 0;
+    for (let i = 0; i < this.length; i++) nb+= this[i] == ' ' ? 1 : 0;
+    return nb == this.length;
+}
+
 window.addEventListener('load', async function() {
     await getText();
     const url = new URLSearchParams(window.location.search);
@@ -14,6 +21,8 @@ search.addEventListener('click', function() {
     let input = document.getElementById('tagsearch');
     let value = input.value;
     if (value == '') {
+        return;
+    } else if (value.allspace()) {
         return;
     }
     croix = `${value} <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
@@ -66,7 +75,7 @@ function colab() {
 
 
 function publication() {
-    const cobal = data['Collaborators'];
+    const cobal = data['Publications'];
     console.log(cobal)
     main = document.getElementById('main');
     for (let i = 0; i < cobal.length; i++) {

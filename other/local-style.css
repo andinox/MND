@@ -79,7 +79,7 @@ header h1 {
 
 .element div img {
     float: left;
-    max-width: 20vw;
+    max-width: 25vw;
     margin: 1vh;
     margin-top: 0px;
 }
@@ -112,11 +112,12 @@ h3 {
     flex-direction: row;
     justify-content: space-between;
     align-self: center;
+    color: rgb(117, 117, 117);
     
 }
 
 .tags div {
-    border: 1px solid #000;
+    border: 1px solid rgb(117, 117, 117);
     margin: auto;    
     margin-left: 1vh;
     padding: 0.1vw;
