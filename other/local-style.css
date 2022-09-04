@@ -108,24 +108,24 @@ h3 {
     font-weight: lighter;
     top: 60%;
     left: 50%;
-    transform: translate(-50%,-50%); 
+    transform: translate(-50%,-50%);
 }
 
 .tags {
-    height: 5vh;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-self: center;
-    color: rgba(0, 0, 0, 0.278);
+    flex-wrap: wrap;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.6);
     
 }
 
 .tags div {
-    border: 1px solid rgba(117, 117, 117, 0.425);
+    border: 1px solid rgba(117, 117, 117, 0.6);
     margin: auto;    
-    margin-left: 1vh;
+    margin: 0.5vh;
     padding: 0.1vw;
+    white-space: nowrap;
 }
 
 
@@ -149,8 +149,66 @@ h3 {
   }
 
 
+#up {
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    padding: 1vh;
+    cursor: pointer;
+}
+
+#up i {
+    font-size: 2vh;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+#date {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+#date h1 {
+    position: relative;
+    font-family: optimus;
+    font-size: 3.5ch;
+    color: rgba(0, 0, 0, 0.44);
+}
+
+#date h1::after {
+    content: "";
+    position: absolute;
+    margin-left: 1vw;
+    width: 800%;
+    height: 2px;
+    top: 50%;
+    background-color: rgba(0, 0, 0, 0.185);
+}
+
+#date h1::before {
+    content: "";
+    position: absolute;
+    margin-left: 1vw;
+    width: 800%;
+    left: -900%;
+    height: 2px;
+    top: 50%;
+    background-color: rgba(0, 0, 0, 0.185);
+}
+
+#date + .element {
+    margin-top: 0px;
+}
 
 
+
+.none {
+    display: none;
+}
 @font-face {
     font-family: "Raleway";
     src: url("../Raleway-VariableFont_wght.ttf") format("truetype"), url("../Raleway-Italic-VariableFont_wght.ttf") format("truetype");
