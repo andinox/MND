@@ -89,7 +89,11 @@ function publication() {
         let img = document.createElement('img');
         img.setAttribute('src',cobal[i].localname);
         let p = document.createElement('p');
-        p.innerHTML = cobal[i].desciption;
+        if  (cobal[i].more != "") {
+            p.innerHTML =  `${cobal[i].desciption} <i id="info" onclick="location.href='${cobal[i].more}'" class="bi bi-info-square-fill"></i>`;
+        } else {
+            p.innerHTML = cobal[i].desciption;
+        }
         lore.appendChild(img);
         lore.appendChild(p);
 

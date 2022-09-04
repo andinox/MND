@@ -13,19 +13,93 @@
     ],
     "Publications": [
         {
-            "title": "Manipulation translationnelle d'atomes magnétiques de cobalt sur la surface Si(100)-2x1 à 9 K",
+            "title": "Translational manipulation of magnetic cobalt adatoms on the Si(100)-2x1 surface at 9 K ",
             "localname": "../props/article/capture_web_site_co-e0ed7.png",
             "desciption": "The controlled motion of magnetic impurities on semiconductor (SC) surfaces is of crucial importance for atomic scale magnetic devices. Still challenging because of their strong reactivity with SCs, magnetic impurities are usually studied in bulk SCs, thus preventing their manipulation. Here, we show that a single Co adatom can be steadied on the bare Si(100)-2 × 1 surface in a pedestal configuration at low temperature, 9 K, and moved along the reconstructed silicon dimer rows via the use of a scanning tunneling microscope. The electronic characteristics of the Co adatom and its surroundings are investigated via topography and dI/dV measurements. Our findings reveal that the Si–Co bonding involves hybridization between the Si-p and the Co-pxpy orbitals. This configuration indicates that the Co-d orbitals remain weakly hybridized with the silicon atoms. These results are supported by density functional theory calculations where the role of the As dopant is discussed as well as the surface reconstruction. Therefore, we show that the motion direction of the Co adatom can be influenced by the surrounding c(4 × 2) or p(2 × 2) surface reconstruction phases, thus opening future interesting magnetic applications.",
+            "more": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b07951",
             "lore": [
-                2022, "damien riedel"
+                2019, "Damien Riedel", "Mayssa Yengui", "Eric Duverger", "Philippe Sonnet"
             ]
         },
         {
             "title": "Exploiting a single intramolecular conformational switching Ni-TPP molecule to probe charge transfer dynamics at the nanoscale on bare Si(100)-2 × 1",
             "localname": "../props/article/nanoscale.png",
             "desciption": "Acquiring quantitative information on charge transfer (CT) dynamics at the nanoscale remains an important scientific challenge. In particular, CT processes in single molecules at surfaces need to be investigated to be properly controlled in various devices. To address this issue, the dynamics of switching molecules can be exploited. Here, nickel-tetraphenylporphyrin adsorbed on the Si(100) surface is used to study the CT process ruling the reversible activation of two chiral molecular conformations. Via the electrons of a scanning tunneling microscope (STM), a statistical study of molecular switching reveals two specific locations of the molecule for which their efficiency is optimized. The CT mechanism is shown to propagate from two lateral aryl groups towards the porphyrin macrocycle inducing an intramolecular movement of two symmetric pyrroles. The measured switching efficiencies can thus be related to a Markus-Jordner model to estimate relevant parameters that describe the dynamics of the CT process. Numerical simulations provide a precise description of the molecular conformations and unveil the molecular energy levels that are involved in the CT process. This quantitative method opens a completely original approach to study CT at the nanoscale.",
+            "more": "https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp05906j",
             "lore": [
-                2022, "damien riedel"
+                2017, "Damien Riedel", "Hatem Labidi", "Henry P. Pinto", "Jerzy Leszczynski"
+            ]
+        },
+        {
+            "title":"2D Functionalized Ultra-thin semi-insulating CaF2 layer on the Si(100) surface at low temperature (9K) for molecular electronic decoupling",
+            "localname":"../props/article/images_medium_am0c06631_0007.gif",
+            "desciption": "The ability to precisely control the electronic coupling/decoupling of adsorbates from surfaces is an essential goal. It is important for fundamental studies not only in surface science but also in several applied domains including, for example, miniaturized molecular electronic or for the development of various devices such as nanoscale biosensors or photovoltaic cells. Here, we provide atomic-scale experimental and theoretical investigations of a semi-insulating layer grown on a silicon surface via its epitaxy with CaF2. We show that, following the formation of a wetting layer, the ensuing organized unit cells are coupled to additional physisorbed CaF2 molecules, periodically located in their surroundings. This configuration shapes the formation of ribbons of stripes that functionalize the semiconductor surface. The obtained assembly, having a monolayer thickness, reveals a surface gap energy of ∼3.2 eV. The adsorption of iron tetraphenylporphyrin molecules on the ribbons of stripes is used to estimate the electronic insulating properties of this structure via differential conductance measurements. Density functional theory (DFT) including several levels of complexity (annealing, DFT + U, and nonlocal van der Waals functionals) is employed to reproduce our experimental observations. Our findings offer a unique and robust template that brings an alternative solution to electronic semi-insulating layers on metal surfaces such as NaCl. Hence, CaF2/Si(100) ribbon of stripe structures, whose lengths can reach more than 100 nm, can be used as a versatile surface platform for various atomic-scale studies of molecular devices.",
+            "more": "https://pubs.acs.org/doi/10.1021/acsami.0c06631",
+            "lore": [
+                2020, "Damien Riedel","Eric Duverger","Anne-Gaëlle Boyer","Hélène Sauriat-Dorizon","Philippe Sonnet","Régis Stephan","Marie-Christine Hanf"
+            ]
+        },
+        {
+            "title": "Probing Charge Transfer Dynamics in a Single Iron Tetraphenylporphyrin Dyad Adsorbed on an Insulating Surface",
+            "localname": "../props/article/Probing Charge Transfer Dynamics.png",
+            "desciption": "Although the dynamics of charge transfer (CT) processes can be probed with ultimate lifetime resolution, the helplessness to control CT at the nanoscale constitutes one of the most important road-blocks to revealing some of its deep fundamental aspects. In this work, we present an investigation of CT dynamics in a single iron tetraphenylporphyrin (Fe-TPP) donor/acceptor dyad adsorbed on a CaF2/Si(100) insulating surface. The tip of a scanning tunneling microscope (STM) is used to create local ionic states in one fragment of the dyad. The CT process is monitored by imaging subsequent changes in the neighbor acceptor molecule and its efficiency is mapped revealing the influence of the initial excited state in the donor molecule. In validation of the experiments, simulations based on density functional theory show that holes have a higher donor-acceptor CT rate compared to electrons and highlight a noticeable initial state dependence on the CT process. We leverage the unprecedented spatial resolution achieved in our experiments to show that the CT process in the dyad is governed via molecule-molecule coherent tunneling with negligible surface-mediated character.",
+            "more": "https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr05424j",
+            "lore": [
+                2022, "Damien Riedel"
+            ]
+        },
+        {
+            "title": "A two-dimensional ON/OFF switching device based on anisotropic interactions of atomic quantum dots on Si(100):H",
+            "localname": "../props/article/switch.PNG",
+            "desciption": "The MND team at ISMO in Orsay in collaboration with a FEMTO-ST team in Besançon and IS2M in Mulhouse have successfully assembled a two-dimensional device of dangling bonds on a silicon surface having the function of a switch similar to that of a ON/OFF transistor. The authors have shown that hybridization of the coupled dangling bonds on silicon at low temperature is modulated by the surface anisotropy. These properties could be exploited in a two-dimensional star-shaped device mixing several crystallographic directions of the surface. By exciting the device electronically, it is possible to switch it from a conducting to a blocked state when a localized band gap is formed in the center of the component. This work explains the interaction between dangling bonds thanks to the presence of the dopant in the substrate and opens new research in various fields ranging from physico-chemistry at surfaces, molecular electronics, or quantum information.",
+            "more": "https://www.nature.com/articles/s41467-017-02377-4",
+            "lore": [
+                2017, "Damien Riedel", "Mayssa Yengui", "Eric Duverger", "Philippe Sonnet"
+            ]
+        },
+        {
+            "title":"Elctronic transport through CoSi2 silicide pads at low temperature",
+            "localname":"../props/article/image_CoSi2-2.jpg",
+            "desciption":"In this article, we study the electronic properties of CoSi2 metallic islands grown on the Si(100) surface with a low temperature (9 K) scanning tunneling microscope (STM). The atomic scale structures of the flat and ridge silicide islands surfaces are described with an ultimate resolution thanks to the low temperature STM stability. A statistical study of the I-V and dI/dV signals acquired along the islands show their metallic-like properties and a very small residual conduction band gap of 30 mV. This reveals that the electronic transport through the individual metallic islands at the silicide-silicon interface is mainly ruled by electronic tunnel processes for positive sample biases and driven by the presence of gap states for negative sample voltage. The role of the gap states is demonstrated by performing conductance measurements along the dimer vacancy lines in which interstitial Co atoms are accessible at the silicon surface. Hence, the electronic transport that occurs from the silicide-silicon interface towards the macroscopic contact of the sample can be explained. ",
+            "more": "",
+            "lore":[
+                2022, "Damien Riedel", "Mayssa Yengui"
+            ]
+        },
+        {
+            "title":"Discovery of anticorrugating states on the Si(100) surface",
+            "localname":"../props/article/com_press_iop.jpg",
+            "desciption":"In this article, we study the origin of the corrugating and anticorrugating states through the electronic properties of the Si(100) surface via a low temperature (9K) scanning tunneling microscope (STM). Our study is based on the analysis of the STM topographies corrugation variations when related to the shift of the local density of states (LDOS) maximum in the direction. Our experimental results are correlated with numerical simulations using the density-functional theory with hybrid Heyd-Scuseria-Ernzerhof (HSE06) functional to simulate the STM topographies, the projected density of states variations at different depths in the silicon surface as well as the three dimensional partial charge density distributions in real-space. This work reveal that the Si(100) surface exhibit two anticorrugating states at + 0.8 V and + 2.8 V that are associated with a phase shift of the LDOS maximum in the unoccupied states STM topographies. By comparing the calculated data with our experimental results, we have been able to identify the link between the variations of the STM topographies corrugation and the shift of the LDOS maximum observed experimentally. Each surface voltage at which the STM topographies corrugation drops is defined as anticorrugating states. In addition we have evidenced a sharp jump in the tunnel current when the second LDOS maximum shift is probed which origin is discussed and associated with the presence of Van Hove singularities.",
+            "more": "",
+            "lore":[
+                2022, "Damien Riedel"
+            ]
+        },
+        {
+            "title":"The adsorption of Co atoms on the Si(100) surface at 9K reveals manipulable interstitial sites and the formation of dimer-vacancy lines",
+            "localname":"../props/article/Co_Si1.png",
+            "desciption":"The adsorption of Co atoms on the bare Si(100)-2 × 1 surface at low temperature (12 K) is performed in the low coverage regime (< 0.1 monolayer). The ensuing surface is studied by means of a low temperature (9 K) scanning tunneling microscope (STM). Several adsorption sites are described via STM topographies and differential conductance spectroscopy. Our study reveals that at low temperature (12 K), a significant fraction of the Co atoms diffuse into the surface and form the first stage reaction sites that are relevant for the silicidation mechanism of the Si(100). Furthermore, the low temperature conditions allow to describe surface Co adatoms conformations that are stabilized on the Si(100)-c(4 × 2) surface. Interestingly, we have observed the irreversible transformation of the symmetric pedestal site (Ps) to the under dimer site (UD) via specific STM scanning conditions. Finally, the presence of dimer vacancy lines is discussed and reveals that the activated etching process of the silicon dimer with metals can be induced at very low temperature.",
+            "more": "",
+            "lore":[
+                2013, "Damien Riedel", "Mayssa Yengui", "Surface Science 2013"
+            ]
+        },
+        {
+            "title":"A new manipulation process for physisorbed molecule on Si(100)",
+            "localname":"../props/article/header_JPCC2.jpg",
+            "desciption":"In this work, we show that the hopping directivity of individual hexaphenyl-benzene (HPB) molecules physisorbed along the SA step edge of a bare Si(100) 2x1 surface can be reversibly controlled with a periodic hopping length. This is achieved by using the tunnel electrons of a low temperature (9 K) scanning tunneling microscope (STM). A statistical analysis of the electronic excitations applied at various positions on the HPB molecule reveal that the hopping process is related to a strong decrease of the tunnel junction conductance. This process is associated to a charge transfer from the silicon surface to the HPB molecule leading to a hopping mechanism that occurs in two sequential steps. The first step of the hopping process involves the formation of an HPB- anion that triggers the molecular motion into a metastable state. The second step is related to the neutralization of the HPB-anion which provokes the manipulation of the molecule to its final steady position. Our experimental data are supported by the calculations of the relaxed molecule using the density functional theory on the Si(100) surface that takes the Van-der-Waals forces interactions into account. Additional calculations of the HPB- anion orbitals depict the spatial localization of the extra charge inside the HPB molecule and the relative energies of the HPB- molecular orbitals. Finally, our study shows that the hopping direction can be optimized by positioning the STM tip at specific locations along the hopping pathway.",
+            "more":"",
+            "lore":[
+                2022, "Damien Riedel", "J. Phys. Chem C"
+            ]
+        },
+        {
+            "title":"Electronic Structure and Bistable Conformational Study of the Tetraphenylporphyrin Erbium(III) Acetylacetonate Complex on the CaF2/Si(100) Surface at Low Temperatures",
+            "localname":"../props/article/images_medium_jp1c02943_0008.gif",
+            "desciption":"The synthesis of tetraphenylporphyrin erbium(III) acetylacetonate (acac) complexes is realized and their properties studied at the nanoscale when adsorbed on a semi-insulating CaF2/Si(100) surface. Our findings reveal that the ErTPP-(acac) molecules can adsorb in two main on-site conformations. Following precisely located dI/dV measurements at various specific positions [phenyls, pyrroles, and Er-(acac)], the relative locations of the Er cation and the apical ligand (acac) can be deciphered for each observed conformation. Hence, one of the adsorbate conformations presents the acac ligand parallel to the porphyrin plane with the Er atom outside the macrocycle plane. The second conformation is related to what is known in the gas phase, where the acac ligand is oriented vertically on top of the Er atom. This work is combined with a theoretical investigation that uses density functional theory methods to bring into light details of the two observed conformations. Additional proofs of our discoveries are related to the vibrational excitations of ErTPP-(acac). A comparison with a theoretical estimation of the vibrational modes reveals how the electronic resonance near the valence-band edge of the insulting layer is suitable to distinguish between the two adsorbed conformations.",
+            "more" : "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c02943",
+            "lore":[
+                2021, "Damien Riedel", "Eric Duverger","Hélène Sauriat-Dorizon", "Anne-Gaëlle Boyer", "Yitao Wang"
             ]
         }
     ]

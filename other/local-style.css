@@ -72,6 +72,11 @@ header h1 {
     margin: 3vh;
 }
 
+#info {
+    user-select: none;
+    cursor: pointer;
+}
+
 .element div p {    
     margin: 0px;
     text-align: justify;
@@ -79,7 +84,7 @@ header h1 {
 
 .element div img {
     float: left;
-    max-width: 25vw;
+    width: 25vw;
     margin: 1vh;
     margin-top: 0px;
 }
@@ -112,12 +117,12 @@ h3 {
     flex-direction: row;
     justify-content: space-between;
     align-self: center;
-    color: rgb(117, 117, 117);
+    color: rgba(0, 0, 0, 0.278);
     
 }
 
 .tags div {
-    border: 1px solid rgb(117, 117, 117);
+    border: 1px solid rgba(117, 117, 117, 0.425);
     margin: auto;    
     margin-left: 1vh;
     padding: 0.1vw;
