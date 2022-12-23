@@ -1,0 +1,612 @@
+{
+
+    "Video": [
+
+        {
+
+            "title": "La manipulation des molécules avec des électrons",
+
+            "localname": "../props/video/Biph_movie2.mp4",
+
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum, optio itaque distinctio quas laboriosam accusamus aperiam obcaecati provident facilis! Quod maxime facilis culpa cum suscipit!"
+
+        },
+
+        {
+
+            "title": "Le logo CNRS revisité",
+
+            "localname": "../props/video/Film_CNRS.mp4",
+
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum, optio itaque distinctio quas laboriosam accusamus aperiam obcaecati provident facilis! Quod maxime facilis culpa cum suscipit!"
+
+        }
+
+    ],
+
+    "Publications": [
+
+        {
+
+            "title": "Periodically spaced CaF2 semi-insulating thin ribbons growth study on the Si(100) surface",
+
+            "localname":"../props/article/para_ribbon-a2c37.jpg",
+
+            "desciption": "In this work, we have discovered that it is possible to grow self-organized periodically spaced thin ribbons of semi-insulating stripes on the bare Si(100) surface. The epitaxial growth of these structures is obtained by the evaporation of CaF2 molecules on the silicon surface at the transition between the VW and SK modes. They are investigated via scanning tunneling techniques at low temperature (9K). In particular, the obtained thin ribbons exhibit a resonant state at the central part of the ribbons revealling an electronic confinement at a resonnant energy 2eV.",
+
+            "more":"https://pubs.rsc.org/en/content/articlelanding/2022/ma/d2ma00751g",
+
+            "DOI": "DOI: 10.1039/d2ma00751g",
+
+            "lore":[
+
+                2022
+
+            ]
+
+        },
+
+        {
+
+            "title": "Translational manipulation of magnetic cobalt adatoms on the Si(100)-2x1 surface at 9 K ",
+
+            "localname": "../props/article/capture_web_site_co-e0ed7.png",
+
+            "desciption": "The controlled motion of magnetic impurities on semiconductor (SC) surfaces is of crucial importance for atomic scale magnetic devices. Still challenging because of their strong reactivity with SCs, magnetic impurities are usually studied in bulk SCs, thus preventing their manipulation. Here, we show that a single Co adatom can be steadied on the bare Si(100)-2 × 1 surface in a pedestal configuration at low temperature, 9 K, and moved along the reconstructed silicon dimer rows via the use of a scanning tunneling microscope. The electronic characteristics of the Co adatom and its surroundings are investigated via topography and dI/dV measurements. Our findings reveal that the Si–Co bonding involves hybridization between the Si-p and the Co-pxpy orbitals. This configuration indicates that the Co-d orbitals remain weakly hybridized with the silicon atoms. These results are supported by density functional theory calculations where the role of the As dopant is discussed as well as the surface reconstruction. Therefore, we show that the motion direction of the Co adatom can be influenced by the surrounding c(4 × 2) or p(2 × 2) surface reconstruction phases, thus opening future interesting magnetic applications.",
+
+            "more": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b07951",
+
+            "DOI": "DOI: 10.1021/acs.jpcc.9b07951",
+
+            "lore": [
+
+                2019
+
+            ]
+
+        },
+
+        {
+
+            "title": "Exploiting a single intramolecular conformational switching Ni-TPP molecule to probe charge transfer dynamics at the nanoscale on bare Si(100)-2 × 1",
+
+            "localname": "../props/article/nanoscale.png",
+
+            "desciption": "Acquiring quantitative information on charge transfer (CT) dynamics at the nanoscale remains an important scientific challenge. In particular, CT processes in single molecules at surfaces need to be investigated to be properly controlled in various devices. To address this issue, the dynamics of switching molecules can be exploited. Here, nickel-tetraphenylporphyrin adsorbed on the Si(100) surface is used to study the CT process ruling the reversible activation of two chiral molecular conformations. Via the electrons of a scanning tunneling microscope (STM), a statistical study of molecular switching reveals two specific locations of the molecule for which their efficiency is optimized. The CT mechanism is shown to propagate from two lateral aryl groups towards the porphyrin macrocycle inducing an intramolecular movement of two symmetric pyrroles. The measured switching efficiencies can thus be related to a Markus-Jordner model to estimate relevant parameters that describe the dynamics of the CT process. Numerical simulations provide a precise description of the molecular conformations and unveil the molecular energy levels that are involved in the CT process. This quantitative method opens a completely original approach to study CT at the nanoscale.",
+
+            "more": "https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp05906j",
+
+            "DOI": "DOI: 10.1021/acs.jpcc.9b07951",
+
+            "lore": [
+
+                2017
+
+            ]
+
+        },
+
+        {
+
+            "title":"2D Functionalized Ultra-thin semi-insulating CaF2 layer on the Si(100) surface at low temperature (9K) for molecular electronic decoupling",
+
+            "localname":"../props/article/acsAMI2017.jpg",
+
+            "desciption": "The ability to precisely control the electronic coupling/decoupling of adsorbates from surfaces is an essential goal. It is important for fundamental studies not only in surface science but also in several applied domains including, for example, miniaturized molecular electronic or for the development of various devices such as nanoscale biosensors or photovoltaic cells. Here, we provide atomic-scale experimental and theoretical investigations of a semi-insulating layer grown on a silicon surface via its epitaxy with CaF2. We show that, following the formation of a wetting layer, the ensuing organized unit cells are coupled to additional physisorbed CaF2 molecules, periodically located in their surroundings. This configuration shapes the formation of ribbons of stripes that functionalize the semiconductor surface. The obtained assembly, having a monolayer thickness, reveals a surface gap energy of ∼3.2 eV. The adsorption of iron tetraphenylporphyrin molecules on the ribbons of stripes is used to estimate the electronic insulating properties of this structure via differential conductance measurements. Density functional theory (DFT) including several levels of complexity (annealing, DFT + U, and nonlocal van der Waals functionals) is employed to reproduce our experimental observations. Our findings offer a unique and robust template that brings an alternative solution to electronic semi-insulating layers on metal surfaces such as NaCl. Hence, CaF2/Si(100) ribbon of stripe structures, whose lengths can reach more than 100 nm, can be used as a versatile surface platform for various atomic-scale studies of molecular devices.",
+
+            "more": "https://pubs.acs.org/doi/10.1021/acsami.0c06631",
+
+            "DOI": "DOI: /10.1039/C7CP05906J",
+
+            "lore": [
+
+                2020
+
+            ]
+
+        },
+
+        {
+
+            "title": "Probing Charge Transfer Dynamics in a Single Iron Tetraphenylporphyrin Dyad Adsorbed on an Insulating Surface",
+
+            "localname": "../props/article/Probing Charge Transfer Dynamics.png",
+
+            "desciption": "Although the dynamics of charge transfer (CT) processes can be probed with ultimate lifetime resolution, the helplessness to control CT at the nanoscale constitutes one of the most important road-blocks to revealing some of its deep fundamental aspects. In this work, we present an investigation of CT dynamics in a single iron tetraphenylporphyrin (Fe-TPP) donor/acceptor dyad adsorbed on a CaF2/Si(100) insulating surface. The tip of a scanning tunneling microscope (STM) is used to create local ionic states in one fragment of the dyad. The CT process is monitored by imaging subsequent changes in the neighbor acceptor molecule and its efficiency is mapped revealing the influence of the initial excited state in the donor molecule. In validation of the experiments, simulations based on density functional theory show that holes have a higher donor-acceptor CT rate compared to electrons and highlight a noticeable initial state dependence on the CT process. We leverage the unprecedented spatial resolution achieved in our experiments to show that the CT process in the dyad is governed via molecule-molecule coherent tunneling with negligible surface-mediated character.",
+
+            "more": "https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr05424j",
+
+            "DOI": "DOI: 10.1039/C8NR05424J",
+
+            "lore": [
+
+                2018
+
+            ]
+
+        },
+
+        {
+
+            "title": "A two-dimensional ON/OFF switching device based on anisotropic interactions of atomic quantum dots on Si(100):H",
+
+            "localname": "../props/article/switch.PNG",
+
+            "desciption": "The MND team at ISMO in Orsay in collaboration with a FEMTO-ST team in Besançon and IS2M in Mulhouse have successfully assembled a two-dimensional device of dangling bonds on a silicon surface having the function of a switch similar to that of a ON/OFF transistor. The authors have shown that hybridization of the coupled dangling bonds on silicon at low temperature is modulated by the surface anisotropy. These properties could be exploited in a two-dimensional star-shaped device mixing several crystallographic directions of the surface. By exciting the device electronically, it is possible to switch it from a conducting to a blocked state when a localized band gap is formed in the center of the component. This work explains the interaction between dangling bonds thanks to the presence of the dopant in the substrate and opens new research in various fields ranging from physico-chemistry at surfaces, molecular electronics, or quantum information.",
+
+            "more": "https://www.nature.com/articles/s41467-017-02377-4",
+
+            "DOI": "DOI:10.1038/s41467-017-02377-4",
+
+            "lore": [
+
+                2017
+
+            ]
+
+        },
+
+        {
+
+            "title":"Evidence of Low Schottky Barrier Effects and the Role of Gap State in the Electronic Transport Through Individual CoSi2 Silicide Nano-Islands",
+
+            "localname":"../props/article/image_CoSi2-2.jpg",
+
+            "desciption":"In this article, we study the electronic properties of CoSi2 metallic islands grown on the Si(100) surface with a low temperature (9 K) scanning tunneling microscope (STM). The atomic scale structures of the flat and ridge silicide islands surfaces are described with an ultimate resolution thanks to the low temperature STM stability. A statistical study of the I-V and dI/dV signals acquired along the islands show their metallic-like properties and a very small residual conduction band gap of 30 mV. This reveals that the electronic transport through the individual metallic islands at the silicide-silicon interface is mainly ruled by electronic tunnel processes for positive sample biases and driven by the presence of gap states for negative sample voltage. The role of the gap states is demonstrated by performing conductance measurements along the dimer vacancy lines in which interstitial Co atoms are accessible at the silicon surface. Hence, the electronic transport that occurs from the silicide-silicon interface towards the macroscopic contact of the sample can be explained. ",
+
+            "more": "https://pubs.acs.org/doi/10.1021/acs.jpcc.5b06816",
+
+            "DOI": "DOI:10.1021/acs.jpcc.5b06816",
+
+            "lore":[
+
+                2015
+
+            ]
+
+        },
+
+        {
+
+            "title":"Atomic scale study of corrugating and anticorrugating states on the bare Si(100) surface",
+
+            "localname":"../props/article/com_press_iop.jpg",
+
+            "desciption":"In this article, we study the origin of the corrugating and anticorrugating states through the electronic properties of the Si(100) surface via a low temperature (9K) scanning tunneling microscope (STM). Our study is based on the analysis of the STM topographies corrugation variations when related to the shift of the local density of states (LDOS) maximum in the direction. Our experimental results are correlated with numerical simulations using the density-functional theory with hybrid Heyd-Scuseria-Ernzerhof (HSE06) functional to simulate the STM topographies, the projected density of states variations at different depths in the silicon surface as well as the three dimensional partial charge density distributions in real-space. This work reveal that the Si(100) surface exhibit two anticorrugating states at + 0.8 V and + 2.8 V that are associated with a phase shift of the LDOS maximum in the unoccupied states STM topographies. By comparing the calculated data with our experimental results, we have been able to identify the link between the variations of the STM topographies corrugation and the shift of the LDOS maximum observed experimentally. Each surface voltage at which the STM topographies corrugation drops is defined as anticorrugating states. In addition we have evidenced a sharp jump in the tunnel current when the second LDOS maximum shift is probed which origin is discussed and associated with the presence of Van Hove singularities.",
+
+            "more": "https://iopscience.iop.org/article/10.1088/0953-8984/27/4/045001",
+
+            "DOI": "DOI:10.1088/0953-8984/27/4/045001",
+
+            "lore":[
+
+                2015
+
+            ]
+
+        },
+
+        {
+
+            "title":"Cobalt adsorption on the bare Si(100) 2 × 1 surface at low temperature (12 K)",
+
+            "localname":"../props/article/Co_Si1.png",
+
+            "desciption":"The adsorption of Co atoms on the bare Si(100)-2 × 1 surface at low temperature (12 K) is performed in the low coverage regime (< 0.1 monolayer). The ensuing surface is studied by means of a low temperature (9 K) scanning tunneling microscope (STM). Several adsorption sites are described via STM topographies and differential conductance spectroscopy. Our study reveals that at low temperature (12 K), a significant fraction of the Co atoms diffuse into the surface and form the first stage reaction sites that are relevant for the silicidation mechanism of the Si(100). Furthermore, the low temperature conditions allow to describe surface Co adatoms conformations that are stabilized on the Si(100)-c(4 × 2) surface. Interestingly, we have observed the irreversible transformation of the symmetric pedestal site (Ps) to the under dimer site (UD) via specific STM scanning conditions. Finally, the presence of dimer vacancy lines is discussed and reveals that the activated etching process of the silicon dimer with metals can be induced at very low temperature.",
+
+            "more": "https://www.sciencedirect.com/science/article/abs/pii/S003960281300294X?via%3Dihub",
+
+            "DOI": "DOI:10.1016/j.susc.2013.10.005",
+
+            "lore":[
+
+                2014
+
+            ]
+
+        },
+
+        {
+
+            "title":"Electronic Control of the Tip-Induced Hopping of an Hexaphenyl-Benzene Molecule Physisorbed on a Bare Si(100) Surface at 9 K",
+
+            "localname":"../props/article/header_JPCC2.jpg",
+
+            "desciption":"In this work, we show that the hopping directivity of individual hexaphenyl-benzene (HPB) molecules physisorbed along the SA step edge of a bare Si(100) 2x1 surface can be reversibly controlled with a periodic hopping length. This is achieved by using the tunnel electrons of a low temperature (9 K) scanning tunneling microscope (STM). A statistical analysis of the electronic excitations applied at various positions on the HPB molecule reveal that the hopping process is related to a strong decrease of the tunnel junction conductance. This process is associated to a charge transfer from the silicon surface to the HPB molecule leading to a hopping mechanism that occurs in two sequential steps. The first step of the hopping process involves the formation of an HPB- anion that triggers the molecular motion into a metastable state. The second step is related to the neutralization of the HPB-anion which provokes the manipulation of the molecule to its final steady position. Our experimental data are supported by the calculations of the relaxed molecule using the density functional theory on the Si(100) surface that takes the Van-der-Waals forces interactions into account. Additional calculations of the HPB- anion orbitals depict the spatial localization of the extra charge inside the HPB molecule and the relative energies of the HPB- molecular orbitals. Finally, our study shows that the hopping direction can be optimized by positioning the STM tip at specific locations along the hopping pathway.",
+
+            "more":"https://pubs.acs.org/doi/abs/10.1021/jp4025014",
+
+            "DOI": "DOI:10.1021/acs.jpcc.5b06816",
+
+            "lore":[
+
+                2013
+
+            ]
+
+        },
+
+        {
+
+            "title":"Electronic Structure and Bistable Conformational Study of the Tetraphenylporphyrin Erbium(III) Acetylacetonate Complex on the CaF2/Si(100) Surface at Low Temperatures",
+
+            "localname":"../props/article/images_medium_jp1c02943_0008.gif",
+
+            "desciption":"The synthesis of tetraphenylporphyrin erbium(III) acetylacetonate (acac) complexes is realized and their properties studied at the nanoscale when adsorbed on a semi-insulating CaF2/Si(100) surface. Our findings reveal that the ErTPP-(acac) molecules can adsorb in two main on-site conformations. Following precisely located dI/dV measurements at various specific positions [phenyls, pyrroles, and Er-(acac)], the relative locations of the Er cation and the apical ligand (acac) can be deciphered for each observed conformation. Hence, one of the adsorbate conformations presents the acac ligand parallel to the porphyrin plane with the Er atom outside the macrocycle plane. The second conformation is related to what is known in the gas phase, where the acac ligand is oriented vertically on top of the Er atom. This work is combined with a theoretical investigation that uses density functional theory methods to bring into light details of the two observed conformations. Additional proofs of our discoveries are related to the vibrational excitations of ErTPP-(acac). A comparison with a theoretical estimation of the vibrational modes reveals how the electronic resonance near the valence-band edge of the insulting layer is suitable to distinguish between the two adsorbed conformations.",
+
+            "more" : "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c02943",
+
+            "DOI": "DOI:10.1021/acs.jpcc.1c02943",
+
+            "lore":[
+
+                2021
+
+            ]
+
+        },
+        {
+
+            "title":"Surface Hydrogenation of the Si (100)-2× 1 and Electronic Properties of Silicon Dangling Bonds on the Si (100): H Surfaces",
+
+            "localname":"../props/article/Surface_hydrog_Si.jpg",
+
+            "desciption":"In this work, I give a short review about the methods that are commonly used to passivate the Si(100) surface with hydrogen atoms. The wet technique is discussed in terms of surface pollution and surface roughness. A basic recipe is given. A second part is devoted to the methods commonly used with vacuum techniques. A discussion is done on the hydrogenation parameters to improve the surface quality at the atomic scale, in particular the one that concerns the formation of various phases such as the 3×1 and dihydride. A third method is also detailed and permits the surface hydrogenation at the atomic scale allowing to design some patches on the Si(100) surface of a few nanometer.",
+
+            "more":"https://link.springer.com/chapter/10.1007/978-3-319-51847-3_1",
+
+            "DOI": "DOI:10.1007/978-3-319-51847-3_1",
+
+            "lore":[
+
+                2017
+
+            ]
+
+        },
+        {
+
+            "title":"Reversible charge storage in a single silicon atom",
+
+            "localname":"../props/article/Reversible_charge_storage.jpg",
+
+            "desciption":"The ultimate miniaturization of electronic devices at the atomic scale with single electrons requires controlling the reversible charge storage in a single atom. However, reversible charge storage is difficult to control as usually only one charge state can be stabilized. Here, combining scanning tunneling microscopy (STM) and density functional theory (DFT), we demonstrate that a single silicon dangling bond of a hydrogenated p-type doped Si(100) surface has two stable charge states (neutral and negatively charged) at low temperature (5 K). Reversible charge storage is achieved using a gate electric field between the STM tip and the surface.",
+
+            "more":"https://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.241406",
+
+            "DOI": "DOI:10.1103/PhysRevB.88.241406",
+
+            "lore":[
+
+                2013
+
+            ]
+
+        },
+        {
+
+            "title":"Atomic-scale control of hydrogen bonding on a bare Si (100)-2× 1 surface",
+
+            "localname":"../props/article/atomic_scale_ctrl_H_bonding.jpg",
+
+            "desciption":"The control of the dissociative adsorption of individual hydrogen molecules is performed on the silicon surface at the atomic scale. It is achieved using the tip of a low-temperature (9 K) scanning tunneling microscope (STM) exposed to 10− 6 torr of H 2 and by probing the bare Si (100)-2× 1 surface at a positive bias. This effect is very localized and is induced by the tunnel electrons. The statistical study of this process reveals an activation energy threshold matching the creation of H 2− at the surface of the STM tip. Our results are supported by ab inito density functional calculations of a hydrogenated silicon dimer.",
+
+            "more":"https://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.241406",
+
+            "DOI": "DOI:doi.org/10.1103/PhysRevB.86.165441",
+
+            "lore":[
+
+                2013
+
+            ]
+
+        }
+    ],
+
+    "Miscelaneous" : [
+
+        {
+
+            "title": "The ISMO WORKSHOP ON CHARGE TRANSFER",
+
+            "localname": "../props/misc/iwct_2021_small-68db9.jpg",
+
+            "desciption" : "The 5th october 2021 we have gathered 12 renowned researchers for the first ISMO workshop on charge transfer processes. The very high quality talks were all given at ISMO through 4 complementary sessions.",
+
+            "more" : " https://iwct.sciencesconf.org/",
+
+            "lore": [
+
+                2021
+
+            ]
+
+        },
+
+        {
+
+            "title": "THE FIRST TALK 'Les jeudis de la recherche' ORGANIZED IN THE NEW ISMO 520 BUILDING",
+
+            "localname": "../props/misc/jdlr_twit_small-6e876.jpg",
+
+            "desciption": "Fabriquer des Nano-dispositifs moléculaires pour mieux comprendre les futurs composants électroniques",
+
+            "desciption": "The 'Jeudis de la recherche' talks are organized by the Mairie de Gif and the ISMO was very appreciated. Many questions and lively debates took place about future electronic and quantum devices. We could visit the experiment and make a sample and an STM tip with a tabletop microscope. Thanks to all participants! .",
+
+            "more": "",
+
+            "lore": [
+
+                2020
+
+            ]
+
+        },
+        {
+
+            "title": "The NAMUS I workshop",
+
+            "localname": "../props/misc/Namus_I_workshop.jpg",
+
+            "desciption" : "The first NAMUS workshop is born from a collaboration between the MND axis at ISMO and the Icnanotox group at JSU. The 'Nano Manipulation of Atom & molecule using STM' workshop is devoted to specific lectures that will introduce basic STM techniques and DFT simulations methods. It will provide to graduated and PhD students general tools to understand and handle the first steps that may conduct them to prepare future experiments that combine scanning probe techniques and simulations using the density functional theory. Students may attend to 6 various lessons and 3 hands-on sessions with real DFT simulations and testing their skills on a small portable STM.",
+
+            "more" : " https://iwct.sciencesconf.org/",
+
+            "lore": [
+
+                2021
+
+            ]
+
+        },
+        {
+
+            "title": "The NAMUS II workshop",
+
+            "localname": "../props/misc/Namus_II_workshop.jpg",
+
+            "desciption" : "The second version of the Namus workshop has been largely appreciated by our group of Phd and master students. They could see the surface of graphite that they prepared themselves. They were also able to learn how to run DFT simulations on the STEMPEDE super calculator",
+
+            "more" : " https://iwct.sciencesconf.org/",
+
+            "lore": [
+
+                2021
+
+            ]
+
+        }
+
+    ],
+
+    "contact": {
+
+        "desciption": "For further imformation or collaboration please contact:<br> request-at-mnd-sciences.com"
+
+
+    },
+
+    "book": [
+
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/book/Springer_book2016-cdcf4.jpg",
+
+            "desciption": "In this chapter, we give a short review about the methods that are commonly used to passivate the Si(100) surface with hydrogen atoms. The wet technique is discussed in terms of surface pollution and surface roughness. A basic recipe is given. A second part is devoted to the methods commonly used with vacuum techniques. A discussion is done on the hydrogenation parameters to improve the surface quality at the atomic scale in particular the one that concerns the formation of various phases such as the 3x1 and dihydride. A third method is also detailed and enable the surface hydrogenation at the atomic scale. ",
+
+            "more": "https://www.springer.com/series/10425"
+
+        },
+        {
+
+            "title": "Practical aspect of computational chemistry III ",
+
+            "localname": "../props/book/BOOK_practical_aspectIII.jpg",
+
+            "desciption": "The present chapter depicts various theoretical methods that have been used in the context of experimental studies at the nanoscale. With the scanning tunneling microscopy (STM), we can investigate the manipulation of individual molecules and their electronic properties through electronically induced excitations. To explore in details the surface dynamics of a molecule in a bistable or quadristable motion, the nudged elastic band method is used to describe the energy barrier of the saddle point located along the molecular reaction pathway. When the physisorbed stilbene molecule is studied on the bare Si(100), the tight binding method is associated to the density functional theory (DFT) to simulate the scanning tunneling topographies. The physisorption of a molecule such as the hexaphenyle-benzene at the step edge of the Si(100) show particular lateral movements which diffusion barrier can be described accurately by the dispersive term added to the DFT to describe van der Waals interactions (DFT-D). In order to identify the nature of bonding of a porphyrin molecule adsorbed on a boron doped silicon surface, we have analyzed the Laplacian of the charge density. Finally, we present a full DFT-D study of a bidimensional nanoporous supramolecular network on a silicon surface. We have evaluated the molecule-molecule and molecule-substrate interactions energies that are key parameters to understand the mechanism of formation of these networks. In this context, the simulations of STM images with multi-diffusion with the presence of a tungsten tip show a better agreement with the experimental observations than the Tersoff-Hamann approach.",
+
+            "more": "https://link.springer.com/book/10.1007/978-1-4899-7445-7"
+
+        },
+        {
+
+            "title": "Current driven Phenomena in Nanoelectrronics",
+
+            "localname": "../props/book/Book_nanoelectronics.jpg",
+
+            "desciption": "This review focuses on the electronic control of single-molecule nanomachines. Manipulating individual molecules on surfaces using scanning tunneling microscopy has been the subject of intense research over the last decade. However, controlled and reproducible manipulation has been achieved only recently. Particular emphasis will be placed on the versatility of STM-induced electronic excitation as the principal physical process behind single-molecule manipulation.",
+
+            "more": "https://www.routledge.com/Current-Driven-Phenomena-in-Nanoelectronics/Seideman/p/book/9789814241502"
+
+        },
+        {
+
+            "title": "VOIR L'INVISIBLE - Comprendre - Agir: Lorsque les boîtes quantiques s'en mêlent",
+
+            "localname": "../props/book/BOOK_Voir_INV_II.jpg",
+
+            "desciption": "A quantum dot (QD) is most often a nanoscale object formed by a group of atoms. Their properties, specific to their small sizes, have a role similar to that of an isolated atom with discretes energy levels. Thus, the electronic levels of a BQ are discrete and defined at a specific energy, unlike those of a solid that are spread on a band of energy. The advantage of the QD over the individual atom lies in the fact that the BQ is electronically isolated from its environment and therefore offers a confined electronic structure. In this context, coupling QDs in order to exploit them as functional devices is therefore a compromise between controlling their size and confinement and controlling the interactions with their environment.",
+
+            "more": "https://livre.fnac.com/a13668198/COLLECTIF-ARMIR-Voir-l-invisible"
+
+        },
+        {
+
+            "title": "VOIR L'INVISIBLE - Un bistable moléculaire",
+
+            "localname": "../props/book/BOOK_Voir_INV_1.jpg",
+
+            "desciption": "A quantum dot (QD) is most often a nanoscale object formed by a group of atoms. Their properties, specific to their small sizes, have a role similar to that of an isolated atom with discretes energy levels. Thus, the electronic levels of a BQ are discrete and defined at a specific energy, unlike those of a solid that are spread on a band of energy. The advantage of the QD over the individual atom lies in the fact that the BQ is electronically isolated from its environment and therefore offers a confined electronic structure. In this context, coupling QDs in order to exploit them as functional devices is therefore a compromise between controlling their size and confinement and controlling the interactions with their environment.",
+
+            "more": "https://www.cultura.com/p-voir-l-invisible-9782916097138.html?utm_source=google&utm_medium=cpc&utm_campaign=PLA_PMAX_Livre&gclid=Cj0KCQiAj4ecBhD3ARIsAM4Q_jGBaPvDBoqEhMLgcrsbbfjct2UjpX1LGPsvMVzngQJ7wN94ehAIij8aAvHEEALw_wcB"
+
+        }
+
+    ],
+
+    "talks" :[
+
+        {
+
+            "title": "From single molecule to molecular devices (USA- RUTGERS) ",
+
+            "localname": "../props/talks/talk_rutgers_2022.png",
+
+            "lore": [
+
+                2020
+
+            ] 
+
+        },
+        {
+
+            "title": "Experiencing molecular and atomic model structures (USA - Berkeley) ",
+
+            "localname": "../props/talks/Talk_berkely.jpg",
+
+            "lore": [
+
+                2020
+
+            ] 
+
+        },
+        {
+
+            "title": "Fabriquer des Nano-Dsipositifs Moléculaires (Fr - Univ. Paris Saclay) ",
+
+            "localname": "../props/talks/Talk_JDLR_vf.jpg",
+
+            "lore": [
+
+                2020
+
+            ] 
+
+        },
+        {
+
+            "title": "From Single molecule ... to molecular devices  (Austria - Linz) ",
+
+            "localname": "../props/talks/Talk_LINZ.jpg",
+
+            "lore": [
+
+                2020
+
+            ] 
+
+        }
+
+    ],
+
+    "people" : [
+
+        {
+
+            
+            "desciption": "<b> Principal Collaborators : </b> <br><br> <br> Eric Duverger (FEMTO, Fr.) <br> Hélène Dorizon (ICMMO, Fr.) <br>Jerzy Leszczynski (ICN, USA)<br>Henry Pinto (YACHA, Ecu.)<br>Elena Jakubikova (NCSU, USA)<br>Michele Pavanelo (RUTGERS, USA)<br> Eng soon Tok (NUS, Sing.)<br> Thierry Chanelière (Inst. Néel, Fr.)<br>Anne Louchet-Chauvet (Institut Langevin, Fr.)<br>Michele Amato (LPS, Orsay, Fr.)<br>Eric Charron (ISMO, Orsay, Fr.) ",
+
+            "localname": "../props/people/people_blank1.jpg"
+
+        },
+
+        {
+
+            "desciption": "<b> Students and Postdocs: </b> <br><br> <br> <br> Yitao Wang (Postdoctorate, ISMO)<br> Marta Martin (Postdoctorate, ISMO) <br> Mayssa Yengui (Phd student)<br> Hatem Labidi (Phd student)<br>Amandine Bellec  (Phd student)<br> Franco Chiaravalloti (Phd student) <br> Thomas Picot (M1 student, Fond. Phys.) <br> Matthias De-amorrim (L2 student, IT) <br> Frédérique Miranville (L3 student, Fond. Phys.) <br> Romain Guillory (L3 student) <br> ",
+
+            "localname": "../props/people/people_blank1.jpg"
+
+        }
+    
+     ],
+
+    "spm" : [
+
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/SPM/image_scanner_SPM.jpg",
+
+            "desciption": " <b> Here are the main expertise developed in my team:</b> <br><br> <br> - Atomic and molecular manipulation with electronic excitation  <br><br> - Lateral manipulation on semiconductor and insulator surfaces <br><br>- STS spectroscopy for electronic and/or vibrational analysis <br><br>- Growth of ultra thin insulating layers on semiconductors <br><br>- Formation of Nanoscale metallic pads (Silicide) <br><br>- Atomic and molecular contact <br><br>- Point defect interactions from quantum dots <br><br>- Charge transfer at the nanoscale <br><br>- Molecular assemblies for devices <br>- Laser combined STM ",
+
+            "more": "https://www.springer.com/series/10425"
+
+        }
+
+
+    ],
+
+    "dft" : [
+
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/DFT/DFT_header.jpg",
+
+            "desciption": " <b> The use of various commercial codes allow to perform theoretical simulations such as:</b> <br><br>  - Gas phase relaxation with Gaussian 09 <br><br> - Surface relaxation with non local DFT code (abinit, Quantum esspresso) <br> <br>- Surface relaxation with or without adsorbate with local or non local DFT code (abinit, Quantum esspresso, SIESTA)  ",
+
+            "more": "https://www.springer.com/series/10425"
+
+        }
+
+
+    ],
+
+    "projects" : [
+
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/Projects/Project_CT.jpg",
+
+            "desciption": " <b> The CHACRA PROJECT (ANR-18-CE30-0004) aims at describing the charge transfer processes at the nanoscale.</b> ",
+
+            "more": "https://anr.fr/Projet-ANR-18-CE30-0004"
+
+        },
+
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/Projects/project_BOQUAT.jpg",
+
+            "desciption": " <b> The BOQUAT PROJECT (LABEX PALM) wish to exploit quantum dots properties at the silicon surface to build atomic charged Qubits </b> ",
+
+            "more": "https://www.springer.com/series/10425"
+
+        },
+        
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/Projects/Project_ATERSSIQ.jpg",
+
+            "desciption": " <b> The ATERSIQ (LABEX PALM) wants to explore the combined optoelectronic excitation of single atoms at the surface for quantum information </b> ",
+
+            "more": "https://www.springer.com/series/10425"
+
+        },
+
+        {
+
+            "title": "Advances in Atom and Single Molecule Machines ",
+
+            "localname": "../props/Projects/Project_COMISS.jpg",
+
+            "desciption": " <b> The PROJECT COMISS study the contact properties of molecular assemblies at the nanoscale   </b> ",
+
+            "more": "https://www.springer.com/series/10425"
+
+        }
+    ]
+}
